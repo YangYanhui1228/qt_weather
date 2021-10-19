@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close.ico</file>
+        <file>icons/leaf.ico</file>
+        <file>icons/location.ico</file>
+        <file>icons/refresh.ico</file>
+        <file>icons/search.ico</file>
+    </qresource>
+</RCC>
