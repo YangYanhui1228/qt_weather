@@ -255,7 +255,7 @@ color: rgb(85, 255, 0);</string>
       <rect>
        <x>160</x>
        <y>50</y>
-       <width>91</width>
+       <width>111</width>
        <height>51</height>
       </rect>
      </property>
@@ -993,9 +993,9 @@ background-color: argb(255, 255, 255, 0);</string>
       <string/>
      </property>
     </widget>
+    <zorder>temLb</zorder>
     <zorder>dateLb</zorder>
     <zorder>sunRiseSetLb</zorder>
-    <zorder>temLb</zorder>
     <zorder>hLine_1</zorder>
     <zorder>hLine_10</zorder>
     <zorder>hLine_11</zorder>
@@ -1010,9 +1010,9 @@ background-color: argb(255, 255, 255, 0);</string>
     <zorder>noticeLb</zorder>
     <zorder>gridLayoutWidget_4</zorder>
     <zorder>vLine_1</zorder>
-    <zorder>refreshBt</zorder>
     <zorder>cityLineEdit</zorder>
     <zorder>searchBt</zorder>
+    <zorder>refreshBt</zorder>
    </widget>
   </widget>
   <widget class="QStatusBar" name="statusbar">
